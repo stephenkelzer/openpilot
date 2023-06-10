@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
 Table of Contents
-=======================
+========================
 
 * [What is openpilot?](#what-is-openpilot)
 * [Running in a car](#running-on-a-dedicated-device-in-a-car)
